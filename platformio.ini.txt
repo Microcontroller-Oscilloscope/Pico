@@ -25,7 +25,7 @@
 ; https://docs.platformio.org/page/projectconf.html
 
 [platformio]
-;default_envs = pico
+default_envs = pico
 
 [env]
 platform = raspberrypi
