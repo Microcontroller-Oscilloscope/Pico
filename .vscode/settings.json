@@ -1,0 +1,8 @@
+{
+	"files.associations": {
+		"config_autogen.h": "c",
+		"pico_w.h": "c",
+		"platform.h": "c",
+		"compiler.h": "c"
+	}
+}
