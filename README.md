@@ -6,7 +6,8 @@ Mark Descriptions:<br>
 &check;: Fully supported<br>
 &cross;: Not and won't be supported<br>
 -: Not yet developed<br>
-*: Developed but not tested
+*: Developed but not tested<br>
+!: Currently in development
 
 > ## [Specs](https://www.raspberrypi.com/documentation/microcontrollers/pico-series.html)<br>
 CPU Frequency: 133 MHz<br>
